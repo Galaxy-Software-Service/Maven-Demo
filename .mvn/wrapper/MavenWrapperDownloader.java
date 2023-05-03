@@ -114,4 +114,8 @@ public class MavenWrapperDownloader {
         rbc.close();
     }
 
+    public class HelloWorld {
+        System.out.println("Hello, World!");
+    }
+
 }
